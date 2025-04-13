@@ -3,7 +3,7 @@ const { App } = require('@slack/bolt');
 const fs = require('fs');
 
 const app = new App({
-  token: process.env.SLACK_BOT_TOKEN,
+  token: process.env.xoxb-1226494846485-8750724387028-pgJD6edXvAPg9x6NeE6yETfE,
   appToken: process.env.SLACK_APP_TOKEN,
   socketMode: true
 });
