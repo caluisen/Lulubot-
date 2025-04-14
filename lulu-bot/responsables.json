@@ -1,4 +1,4 @@
-{
-  "MEX1": "<@caluise>",
-  "MEX2": "<@heredjuv>",
-}
+[
+  { "id": 1, "nombre": "caluisen", "rol": "Mex1" },
+  { "id": 2, "nombre": "heredjuv", "rol": "Mex2" }
+]
