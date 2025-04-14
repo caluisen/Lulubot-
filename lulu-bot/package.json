@@ -1,13 +1,17 @@
 {
   "name": "lulu-bot",
   "version": "1.0.0",
-  "description": "Slack bot que responde en hilo con responsables por palabra clave.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "@slack/bolt": "^3.15.0",
-    "dotenv": "^16.0.3"
+    "@slack/bolt": "^4.2.1",
+    "@slack/web-api": "^7.9.1",
+    "dotenv": "^16.5.0"
   }
 }
